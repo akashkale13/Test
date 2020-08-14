@@ -8,7 +8,7 @@ void func1()
 
 public static void main(String args[])
 {
-
+func1()
 }
 
 

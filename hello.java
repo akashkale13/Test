@@ -6,6 +6,11 @@ void func1()
 	System.out.println("In function 1");
 }
 
+void func2()
+{
+
+}
+
 public static void main(String args[])
 {
 func1()
